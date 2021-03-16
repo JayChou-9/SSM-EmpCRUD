@@ -1,0 +1,17 @@
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\bean\Admin.java
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\interceptor\LoginInterceptor.java
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\controller\EmployeeController.java
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\bean\Department.java
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\dao\AdminMapper.java
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\bean\Message.java
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\utils\MyBatisGeneratorUtil.java
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\controller\DepartmentController.java
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\service\DepartmentService.java
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\service\EmployeeService.java
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\controller\AdminLoginController.java
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\service\AdminService.java
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\bean\Employee.java
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\dao\EmployeeMapper.java
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\bean\DepartmentExample.java
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\dao\DepartmentMapper.java
+D:\temporary files\ssm_crud\src\main\java\com\z\ssm\bean\EmployeeExample.java

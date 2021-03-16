@@ -1,0 +1,100 @@
+.submit{
+    height: 30px;
+    width: 240px;
+    margin: 0 auto;
+    display: block;
+    border: 0;
+    border: solid 1px #a2ffdd;
+    box-shadow: 0 0 10px #a2ffdd;
+    background-color: transparent;
+    outline: none;
+    color: #40464c;
+    font-size: 16px;
+    text-align: center;
+
+    border-radius: 3px;
+
+}
+.block{
+    height: 30px;
+    display: block;
+}
+.block2{
+    height: 40px;
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    color: #ff0000;
+    line-height: 40px;
+}
+.form>form{
+    margin-top: 100px;
+}
+.username{
+    height: 25px;
+    width: 240px;
+    margin: 0 auto;
+    display: block;
+    padding-top: 5px;
+    border: 0;
+    border-bottom: solid 1px #a2ffdd;
+    outline: none;
+    background-color: transparent;
+    color: #40464c;
+    font-size: 16px;
+    text-align: center;
+    box-shadow: 0 8px 30px #a2ffdd;
+    /* box-shadow: 0 8px 30px #ff0000; */
+    border-radius: 3px;
+}
+.password{
+    height: 25px;
+    width: 240px;
+    margin: 0 auto;
+    display: block;
+    padding-top: 5px;
+    border: 0;
+    border-bottom: solid 1px #a2ffdd;
+    outline: none;
+    background-color: transparent;
+    color: #40464c;
+    font-size: 16px;
+    text-align: center;
+    box-shadow: 0 8px 30px #a2ffdd;
+    border-radius: 3px;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius:50%;
+    top: -50px;
+    left: 125px;
+    background: url(/static/img/logo.jpg) center center;
+    box-shadow: 0px 5px 15px #52fffa;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    width: 100%;
+    height: 100vh;
+    background: url(/static/img/codeparticle.jpg) no-repeat;
+    background-size:100% 100%;
+    position: relative;
+}
+.input{
+    width: 350px;
+    height: 300px;
+    background:rgba(4,255,234,0.3);
+    box-shadow: 0 0 30px #52fffa;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}

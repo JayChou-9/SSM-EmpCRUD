@@ -1,0 +1,48 @@
+body{
+    background-color: #ddd;
+}
+.tou{
+    height: 200px;
+    overflow: hidden;
+}
+.text{
+    font-size: 40px;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: -100px;
+}
+.user{
+    height: 40px;
+    width: 1170px;
+    margin: 150px auto;
+    background-color: #fff;
+    position: relative;
+
+}
+.user_logo{
+    display: block;
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    position: absolute;
+    top: 0px;
+    right: 200px;
+}
+.user_name{
+    display: block;
+    font-size: 16px;
+    height: 40px;
+    width: 100px;
+    position: absolute;
+    top: 10px;
+    right: 90px;
+}
+.exit{
+    position: absolute;
+    top: 15px;
+    right: 70px;
+}
+.exit:hover{
+    color: red;
+}
